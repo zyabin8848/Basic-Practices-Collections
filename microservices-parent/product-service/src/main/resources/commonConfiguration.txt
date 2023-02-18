@@ -1,0 +1,14 @@
+java ::
+what is the java?
+what is jvm ?
+what is java object-oriented languages?
+what is the functional interfaces?
+what is the String?
+what are the data structure?
+write some array function?
+is possible multiple inheritance in java?
+what is spring boot application?
+what is hibernate in java?
+have you any idea of maven projects?
+what is access modifier?
+how can we know about the debugging in java

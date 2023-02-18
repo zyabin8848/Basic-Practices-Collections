@@ -8,6 +8,9 @@ public class ProductServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductServiceApplication.class, args);
+
+
+		// copy code is the easy to use the common the fil
 	}
 
 }
